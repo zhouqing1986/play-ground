@@ -1,7 +1,8 @@
-The task is relative to # （user story 编号）
+The task is relative to #
 
 (任务说明)
 
-/estimate 
-/lable ~Task
+/estimate
+
+/label ~Task
 
